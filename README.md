@@ -6,7 +6,7 @@ g++ -o main main.cpp neural.cpp
 ./train
 ./main
 ```
-##Output
+## Output
 ### From main
 ```text
                             
